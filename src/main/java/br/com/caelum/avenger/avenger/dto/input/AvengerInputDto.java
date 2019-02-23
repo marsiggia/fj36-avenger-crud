@@ -1,10 +1,10 @@
-package br.com.caelum.avenger.avengercrud.avenger.dto.input;
+package br.com.caelum.avenger.avenger.dto.input;
 
 import java.util.HashSet;
 import java.util.Set;
 
-import br.com.caelum.avenger.avengercrud.avenger.CatastrofeType;
-import br.com.caelum.avenger.avengercrud.avenger.SuperPowerType;
+import br.com.caelum.avenger.avenger.CatastrofeType;
+import br.com.caelum.avenger.avenger.SuperPowerType;
 
 public class AvengerInputDto {
 	

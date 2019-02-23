@@ -1,4 +1,4 @@
-package br.com.caelum.avenger.avengercrud.avenger;
+package br.com.caelum.avenger.avenger;
 
 public enum CatastrofeType {
 	
@@ -7,6 +7,7 @@ public enum CatastrofeType {
 	VENTO,
 	BOMBA,
 	ARMAS_DE_FOGO,
-	ALIENÍGENAS
+	ALIENIGENAS,
+	IA
 	
 }

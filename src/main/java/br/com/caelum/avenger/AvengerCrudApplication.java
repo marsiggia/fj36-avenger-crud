@@ -1,4 +1,4 @@
-package br.com.caelum.avenger.avengercrud;
+package br.com.caelum.avenger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

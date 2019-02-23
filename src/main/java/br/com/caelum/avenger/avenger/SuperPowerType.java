@@ -1,0 +1,18 @@
+package br.com.caelum.avenger.avenger;
+
+public enum SuperPowerType {
+
+	SUPER_FORCA, 
+	SUPER_VELOCIDADE, 
+	SUPER_ELASTICIDADE, 
+	VOA, 
+	TELECINESE, 
+	VISAO_RAIOX, 
+	ATRAVESSA_PAREDE, 
+	CRIA_TEIA_ARANHA,
+	MIRA_MUITO_FODA, 
+	SUPER_CURA,
+	LUTA, 
+	AGILIDADE;
+
+}
